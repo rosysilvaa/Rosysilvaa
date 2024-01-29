@@ -1,5 +1,7 @@
 
 
+    
+Olá! Eu sou a Roseane da Silva !
 - 👩‍🎓 Eu sou formada em Gestão Financeira
 - 📘 Estou cursando Análise e Desenvolvimento de Sistemas 
 - 📘 Conclui a Pós-graduação em Engenharia de Software (aguardando o certificado)
@@ -9,9 +11,8 @@
 - 👩‍🦰 Pronome: Ela/Dela
 - 🏖️ Adoro viajar e ir para praia
 
-- Olá! Eu sou a Roseane da Silva !
+- 
 --> <div >
          <a href="https://github.com/rosysilvaa">
-
-     </div>
+  </div>
          
