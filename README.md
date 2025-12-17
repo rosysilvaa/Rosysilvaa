@@ -1,7 +1,7 @@
 
 
     
-# Olá, eu sou a [Seu Nome]! 👋
+# Olá, eu sou a Roseane da Silva! 👋
 
 ### Desenvolvedora Web Front-end
 
@@ -20,15 +20,6 @@ Para o desenvolvimento dos meus projetos, utilizo as seguintes linguagens e ferr
 
 ### Editor de Código
 - **Visual Studio Code**: Minha principal ferramenta de trabalho, configurada para máxima produtividade.
-
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
-</p>
 
 ---
 
