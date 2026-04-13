@@ -1,4 +1,5 @@
-<img width="1024" height="1024" alt="image_52f209ff" src="https://github.com/user-attachments/assets/f28029b7-ecaa-43fc-ba6d-9df710b52514" /><h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+<h2 align="left">Olá 👋! Meu nome é Roseane , sou Desenvolvedora Web Fron-End </h2>
 
 ###
 
@@ -42,10 +43,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img width="1024" height="1024" alt="image_52f209ff" src="https://github.com/user-attachments/assets/4dda6d9a-d409-431d-9c3d-ccc5ae79a24b" />
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-
-    
