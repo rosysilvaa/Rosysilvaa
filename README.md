@@ -1,34 +1,51 @@
+<img width="1024" height="1024" alt="image_52f209ff" src="https://github.com/user-attachments/assets/f28029b7-ecaa-43fc-ba6d-9df710b52514" /><h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img width="1024" height="1024" alt="image_52f209ff" src="https://github.com/user-attachments/assets/4dda6d9a-d409-431d-9c3d-ccc5ae79a24b" />
+
+
+###
 
     
-# Olá, eu sou a Roseane da Silva! 👋
-
-### Desenvolvedora Web Front-end
-
-Sou apaixonada por transformar designs em experiências digitais interativas e funcionais. Atualmente, estou focada em aprimorar minhas habilidades na tríade fundamental da web e construir interfaces responsivas e acessíveis.
-
----
-
-## 🛠️ Ferramentas e Tecnologias
-
-Para o desenvolvimento dos meus projetos, utilizo as seguintes linguagens e ferramentas:
-
-### Linguagens de Programação
-- **HTML5**: Estruturação de conteúdo semântico.
-- **CSS3**: Estilização, animações e layouts (Flexbox/Grid).
-- **JavaScript (ES6+)**: Criação de lógica e interatividade dinâmica.
-
-### Editor de Código
-- **Visual Studio Code**: Minha principal ferramenta de trabalho, configurada para máxima produtividade.
-
----
-
-## 📬 Vamos nos conectar?
-
-Seja para um café virtual ou para falar sobre tecnologia, sinta-se à vontade para entrar em contato:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-
----
-*Estudando e evoluindo um código por vez. 🚀*
