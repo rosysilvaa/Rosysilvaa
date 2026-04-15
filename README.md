@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou a Roseane\!
 
-### **Desenvolvedora Web Front-End 
+### Desenvolvedora Web Front-End 
 
 Estou em um momento de **retorno e foco total na programação Web**, unindo minha base sólida em desenvolvimento com uma trajetória diversificada no ensino e na gestão. Minha transição de volta para o código é impulsionada pela paixão em construir interfaces que entregam valor e boas experiências ao usuário.
 
