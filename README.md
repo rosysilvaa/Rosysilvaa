@@ -1,42 +1,52 @@
+<h1 align="center">Olá , Sou a Roseane Desenvolvedora Web </h1>
 
+###
 
-# 👋 Olá, eu sou a Roseane\!
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-### Desenvolvedora Web Front-End 
+###
 
-Estou em um momento de **retorno e foco total na programação Web**, unindo minha base sólida em desenvolvimento com uma trajetória diversificada no ensino e na gestão. Minha transição de volta para o código é impulsionada pela paixão em construir interfaces que entregam valor e boas experiências ao usuário.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
------
+###
 
-## 🚀 Sobre Mim
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-  * 🎓 Formada em Gestão Financeira.
-  * 🎓 Concluindo graduação em **Análise e Desenvolvimento de Sistemas.
-  * 👩‍🏫 Atuei como Professora Voluntária de Inteligência Artificial, compartilhando conhecimento sobre Machine Learning e tecnologias emergentes.
-  * 💡 Atualmente, estou aprimorando minhas habilidades no ecossistema Front-End e expandindo conhecimentos para o Back-End.
+###
 
------
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🛠️ Tecnologias e Ferramentas
-
-Nos meus projetos atuais e em desenvolvimento, utilizo:
-
-  * **Linguagens & Web:** HTML5, CSS3 e JavaScript (ES6+).
-  * **Versionamento:** Git e GitHub.
-  * **Foco Atual:** React.js, acessibilidade web e otimização de performance.
-
------
-
-## 📈 Objetivos
-
-  * Atuar como Desenvolvedora Front-End Junior.
-  * Contribuir para projetos que utilizem tecnologia para impacto social ou educacional.
-  * Manter a consistência na escrita de código limpo e escalável.
-
------
-
-## 📫 Vamos conversar?
-
-  * **LinkedIn:** [https://www.linkedin.com/in/roseane-silva-0b150114b/]
-  * **E-mail:** [roseane.1212@hotmail.com]
-
+###
