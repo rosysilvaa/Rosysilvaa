@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou a Roseane\!
 
-### **Desenvolvedora Web Front-End Jr. | Professora de IA | Especialista em Engenharia de Software**
+### **Desenvolvedora Web Front-End 
 
 Estou em um momento de **retorno e foco total na programação Web**, unindo minha base sólida em desenvolvimento com uma trajetória diversificada no ensino e na gestão. Minha transição de volta para o código é impulsionada pela paixão em construir interfaces que entregam valor e boas experiências ao usuário.
 
@@ -10,10 +10,9 @@ Estou em um momento de **retorno e foco total na programação Web**, unindo min
 
 ## 🚀 Sobre Mim
 
-  * 🎓 Formada em **Gestão Financeira**.
-  * 🎓 Concluindo graduação em **Análise e Desenvolvimento de Sistemas**.
-  * 📜 Pós-graduada em **Docência do Ensino Superior** e **Engenharia de Software**.
-  * 👩‍🏫 Atuei como **Professora Voluntária de Inteligência Artificial**, compartilhando conhecimento sobre Machine Learning e tecnologias emergentes.
+  * 🎓 Formada em Gestão Financeira.
+  * 🎓 Concluindo graduação em **Análise e Desenvolvimento de Sistemas.
+  * 👩‍🏫 Atuei como Professora Voluntária de Inteligência Artificial, compartilhando conhecimento sobre Machine Learning e tecnologias emergentes.
   * 💡 Atualmente, estou aprimorando minhas habilidades no ecossistema Front-End e expandindo conhecimentos para o Back-End.
 
 -----
