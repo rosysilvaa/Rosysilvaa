@@ -1,69 +1,46 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Olá, eu sou a Roseane! 👋
 
-###
+### Desenvolvedora Web Front-End | Estudante de Back-End (Node.js)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+Sou uma desenvolvedora apaixonada por tecnologia e educação, atualmente focada em expandir meus horizontes no desenvolvimento web. Após consolidar minha base no ecossistema Front-End, estou direcionando meus estudos e energia para o **Back-End**, explorando as possibilidades do Node.js e o poder do JavaScript no lado do servidor.
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+## 🚀 O que estou fazendo agora?
 
-###
+- 🛠️ **Transição de Carreira:** Focada intensamente em dominar **Node.js** e aprofundar conhecimentos em **JavaScript** assíncrono e APIs.
+- 📚 **Portfólio:** A maioria dos meus projetos atuais destaca minhas habilidades com **HTML5** e **CSS3**, mas estou documentando toda a minha evolução no mundo do Back-End.
+- ⚡ **Entusiasmo:** Dedicando tempo para entender arquitetura de sistemas, bancos de dados e como construir aplicações robustas e escaláveis.
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 💻 Tecnologias e Ferramentas
 
-<h3 align="left">👩‍💻  About Me</h3>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Back-End** | Node.js |
+| **Linguagens** | JavaScript (ES6+) |
+| **Front-End** | HTML5, CSS3 |
+| **Ferramentas** | Git, GitHub |
 
-###
+---
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
 </div>
 
-###
+---
 
+## 📫 Vamos nos conectar?
 
+Gosto de trocar experiências sobre transição de carreira, mentorias e novas tecnologias. Se você quiser bater um papo ou colaborar em um projeto, sinta-se à vontade!
+
+- **LinkedIn:** [Seu Nome de Usuário](https://linkedin.com/in/seu-perfil)
+- **Email:** seu.email@exemplo.com
+
+---
+
+*"Focada no próximo passo, um commit de cada vez."*
