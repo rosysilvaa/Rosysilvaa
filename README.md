@@ -25,15 +25,6 @@ Sou uma desenvolvedora apaixonada por tecnologia e educação, atualmente focada
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github.com/rosysilvaa" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github.com/rosysilvaa" alt="Linguagens mais usadas" height="150" />
-</div>
-
----
-
 ## 📫 Vamos nos conectar?
 
 Gosto de trocar experiências sobre transição de carreira, mentorias e novas tecnologias. Se você quiser bater um papo ou colaborar em um projeto, sinta-se à vontade!
