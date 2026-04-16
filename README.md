@@ -28,7 +28,7 @@ Sou uma desenvolvedora apaixonada por tecnologia e educação, atualmente focada
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github.com/rosysilvaa" alt="Estatísticas do GitHub" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
 </div>
 
