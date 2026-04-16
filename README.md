@@ -38,8 +38,8 @@ Sou uma desenvolvedora apaixonada por tecnologia e educação, atualmente focada
 
 Gosto de trocar experiências sobre transição de carreira, mentorias e novas tecnologias. Se você quiser bater um papo ou colaborar em um projeto, sinta-se à vontade!
 
-- **LinkedIn:** [Seu Nome de Usuário](https://linkedin.com/in/seu-perfil)
-- **Email:** seu.email@exemplo.com
+- LinkedIn: https://www.linkedin.com/in/roseane-silva-0b150114b/?skipRedirect=true
+- Email: roseane.1212@hotmail.com
 
 ---
 
